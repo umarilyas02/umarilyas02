@@ -1,86 +1,110 @@
-Hi 👋  
-My name is **Umar Ilyas**
-=========================
+<h1 align="center">Hi, I'm Umar Ilyas 👋</h1>
 
-### Web Developer
+<h3 align="center">Full-Stack Developer · Web & Mobile</h3>
 
-I’ve been learning to code for over **1 year**, starting with **HTML**, and I’m currently working with **Next.js**.
-
-- 🌍 Based in **Sialkot, Pakistan**
-- 🖥️ Portfolio: [umarilyas.dev](http://umarilyas.dev)
-- ✉️ Email: [umarilyas389@gmail.com](mailto:umarilyas389@gmail.com)
-- 🚀 Currently working on **[Collars & Crown](http://collarsandcrown.pk)**
-- 🧠 Learning **Next.js & Express.js**
-- 👥 Open to collaborating on **interesting projects**
-
----
-
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  &nbsp;
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  &nbsp;
-  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" /></a>
-  &nbsp;
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  &nbsp;
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express.js" /></a>
-  &nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  &nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  &nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-  &nbsp;
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  &nbsp;
-  <a href="https://mui.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-  &nbsp;
-  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  &nbsp;
-  <a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<p align="center">
+  I design and build production-grade digital products end to end — from database
+  architecture and secure APIs to polished web and mobile experiences.
 </p>
 
----
-
-### 🎨 Design & Other Tools
-
-<p align="left">
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  &nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-  &nbsp;
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
-  &nbsp;
-  <a href="https://wordpress.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>
-</p>
-
----
-
-### 🌐 Socials
-
-<p align="left">
-  <a href="https://github.com/umarilyas02"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/umarilyas02"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/umarilyas02"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
-</p>
-
----
-
-### 📌 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/umarilyas02/FitGrips">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarilyas02&repo=FitGrips&theme=dark&hide_border=true" />
+<p align="center">
+  <a href="https://umarilyas.dev">
+    <img src="https://img.shields.io/badge/Portfolio-umarilyas.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Umar Ilyas portfolio" />
   </a>
-  &nbsp;
-  <a href="https://github.com/umarilyas02/Nexus">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=umarilyas02&repo=Nexus&theme=dark&hide_border=true" />
+  <a href="https://www.linkedin.com/in/umarilyas02">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Umar on LinkedIn" />
   </a>
-</div>
+  <a href="mailto:umarilyas389@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Umar" />
+  </a>
+</p>
+
+---
+
+## About me
+
+- 📍 Based in **Sialkot, Pakistan** and working worldwide
+- 🧩 Building across the full product stack: **UI, APIs, databases, integrations, and deployment**
+- 📱 Creating responsive web products and cross-platform mobile experiences
+- 🏗️ Experienced with **e-commerce, ERP systems, SaaS products, logistics, and AI-assisted tools**
+- 🤝 Open to collaborating on ambitious products and open-source projects
+
+## Currently building
+
+<table>
+  <tr>
+    <td width="64">
+      <a href="https://github.com/umarilyas02/OpenForge">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" alt="OpenForge repository" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/umarilyas02/OpenForge">OpenForge</a></h3>
+      <strong>Build visually. Keep the code.</strong><br />
+      An open-source, AI-assisted visual development environment for building,
+      editing, exporting, and deploying production-grade Next.js applications
+      without giving up source-code ownership.
+      <br /><br />
+      <code>Next.js</code> <code>JavaScript</code> <code>Express</code>
+      <code>PostgreSQL</code> <code>Docker</code> <code>GitHub</code>
+      <code>Vercel</code> <code>BYOK AI</code>
+      <br /><br />
+      <sub>Currently in pre-alpha foundation work and being developed in public.</sub>
+    </td>
+  </tr>
+</table>
+
+## Tech stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss)
+![Motion](https://img.shields.io/badge/Motion-0D1117?style=flat-square&logo=framer)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux)
+![Radix UI](https://img.shields.io/badge/Radix_UI-0D1117?style=flat-square&logo=radixui)
+
+### Backend & data
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma)
+![Drizzle](https://img.shields.io/badge/Drizzle-0D1117?style=flat-square&logo=drizzle)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase)
+
+### Platforms & tools
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai)
+![Stripe](https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma)
+
+## Featured repositories
+
+| Project | What it does | Core technologies |
+| --- | --- | --- |
+| **📌 [OpenForge](https://github.com/umarilyas02/OpenForge)** | Open-source visual development environment that keeps source code as the product format, with optional AI, GitHub, Vercel, and plugin workflows. | Next.js, JavaScript, Express, PostgreSQL, Docker |
+| **[FitGrips](https://github.com/umarilyas02/FitGrips)** | Responsive e-commerce experience focused on premium fitness and powerlifting gear. | Next.js, React, Tailwind CSS, Redux Toolkit |
+| **[PM Chatbot](https://github.com/umarilyas02/pm-chatbot)** | AI-powered project-management workspace for organizing work and team activity. | Next.js, PostgreSQL, Supabase, dnd-kit |
+| **[Nexus](https://github.com/umarilyas02/Nexus)** | Collaboration platform with WebRTC video calls, scheduled meetings, document uploads, simulated wallet transactions, and 2FA. | TypeScript, React, WebRTC |
+---
+
+<h3 align="center">Have a product in mind?</h3>
+
+<p align="center">
+  I'm available for selected collaborations and full-stack product work.
+  <br /><br />
+  <a href="https://umarilyas.dev"><strong>Explore my work →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:umarilyas389@gmail.com"><strong>Start a conversation →</strong></a>
+</p>
