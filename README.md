@@ -9,14 +9,20 @@
 
 <p align="center">
   <a href="https://umarilyas.dev">
-    <img src="https://img.shields.io/badge/Portfolio-umarilyas.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Umar Ilyas portfolio" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="View Umar Ilyas's portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/umarilyas02">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Umar on LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Umar Ilyas on LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:umarilyas389@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Umar" />
+    <img src="https://img.shields.io/badge/Send%20an%20Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Umar Ilyas an email" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Available for selected collaborations and full-stack product work.</sub>
 </p>
 
 ---
