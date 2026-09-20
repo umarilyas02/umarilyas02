@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Umar Ilyas 👋</h1>
 
-<h3 align="center">Full-Stack Developer · Web & Mobile</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   I design and build production-grade digital products end to end — from database
